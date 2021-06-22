@@ -5,7 +5,7 @@ Construct-ive English Language For Team ( Larger Team )
 * Construct-ive English Language Form ( Sub-Team )
 
 
-**Primary Documents** :
+# Primary Core Documents :
 
 * [Overall Forms of Communication](_overall_forms_of_communication.md)
 ( Brief document outlining overall types of communication forms )
@@ -13,7 +13,7 @@ Construct-ive English Language For Team ( Larger Team )
 * [Overall Overview Of Construct-ive Communication Form](_overview.md)
 ( Brief document outlining the overall structure of this communication form )
 
-# Core Documents
+# Additional Core Documents
 
 * [Construct-ive Form Core Words](_constructive_form_core_words.md)
 * [Construct-ive Form Core Qualifiers](_constructive_form_qualifiers_words.md)
