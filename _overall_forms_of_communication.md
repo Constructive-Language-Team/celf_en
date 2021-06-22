@@ -1,6 +1,6 @@
 # Overall Forms of Communication
 
-This document describes the essentials of the Overall Forms of Speech in Construct-ive English Language Form ( CELF ) .
+This document describes the essentials of the Overall Forms of Communication in Construct-ive English Language Form ( CELF ) .
 
 This is a sub-set of English focusing primarily Construct-ive Form of English as inclusive-ly in communication as possible .
 
