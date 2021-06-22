@@ -8,7 +8,7 @@ Construct-ive English Language For Team ( Larger Team )
 # Primary Core Documents :
 
 * [Overall Forms of Communication](_overall_forms_of_communication.md)
-( Brief document outlining overall types of communication forms )
+( Brief document outlining overall types of communication forms in CELF )
 
 * [Overall Overview Of Construct-ive Communication Form](_overview.md)
 ( Brief document outlining the overall structure of this communication form )
