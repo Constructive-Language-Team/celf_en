@@ -38,7 +38,7 @@ The Speaker should choose humility form in communication as much as possible :
 
 Often , teaching about language is to 'think of the listener' . If 'generic I' may like a different route of presentation , maybe I should be doing so as the Speaker ?
 
-True communication is more 'Listener'-driven than usually taught .
+True communication is more 'Listener'-driven than usually presenting in teaching .
 
 Let us consider also the : 'If a tree/object which makes a sound "falls in the forest" does **this make a sound** ? '
 
