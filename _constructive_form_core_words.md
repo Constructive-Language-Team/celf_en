@@ -1,7 +1,6 @@
-
 Navigation Brief : [README](README.md)
 
-# Learning In Progress Construct-ive Form Core Words (Sample)
+# Learning In Progress Construct-ive Form Core Words ( Sample )
 
 The following is a growing , exacting , and living list of some of the many Construct-ive Form Core Words .
 
@@ -19,7 +18,7 @@ awesome
 
 believe
 
-blessing
+bless / blessing / bless-ing
 
 build
 
@@ -31,7 +30,7 @@ charity
 
 comfort
 
-constructive / construct-ive
+construct / constructive / construct-ive / construct-ive-ly
 
 earth
 
