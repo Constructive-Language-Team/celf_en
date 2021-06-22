@@ -2,7 +2,7 @@ Navigation Brief : [README](README.md)
 
 # Learning In Progress Construct-ive Form Phrases ( Sample )
 
-The following is a growing , exacting , and living list of some of the many Positive Form Core Phrases .
+The following is a growing , exacting , and living list of some of the many Construct-ive Form Core Phrases .
 
 Each of the phrases , essentially , require a deep sincerity , intention , and feeling to intend and live proper .
 
