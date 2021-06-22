@@ -19,3 +19,7 @@ I know a little more than nothing , I am enjoying the journey .
 I know a little more than nothing , I am en-joy-ing the journey .
 
 I am listening , learning , and teachable , ongoing and always .
+
+Please also do as I intend and do . Keep safe , and take very good care .
+
+Please also do as I , and we , intend and do . Keep safe , and take very good care .
