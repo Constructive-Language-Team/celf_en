@@ -1,4 +1,3 @@
-
 Navigation Brief : [README](README.md)
 
 # Overall Forms of Communication In CELF ( Construct-ive English [ en ] Language Form )
@@ -77,11 +76,12 @@ Example ( s ) :
 
 ## 'Spacing' Form
 
-When possible , allow an extra space especially in digital communication before and after lines and / or certain aspects of communication , depending on the context , possibly even before and/or after any form of punctuation / quoting / brackets , etc. .
+When possible , allow an extra space especially in digital communication before and after lines and / or certain aspects of communication , depending on the context , possibly even before and / or after any / most form ( s )  of punctuation / quoting / brackets , etc. .
 
-While this may seem strange to some , this inherently builds more comfort especially for some types of readers .
+While this may seem strange to at least some , this inherently assists in building more comfort especially for some types of readers and especially due to the unique dynamics each person faces each day .
 
-Sometimes , especially in digital format , separate lines , such as how this document is being compiling / organizing , will assist readers in seeing individual points .
+Sometimes , especially in digital format , additional lines , such as how this document is being compiling / organizing , will assist readers in seeing individual points more clearly .
+Especially in digital formats , readability and clearness should be emphasizing more than exact-ing formatting , when both reason-able and possible .
 
 Examples : throughout this document . More can be added in time .
 
