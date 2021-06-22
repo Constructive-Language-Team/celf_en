@@ -1,6 +1,6 @@
 Navigation Brief : [README](README.md)
 
-# Learning In Progress Construct-ive Form Phrases (Sample)
+# Learning In Progress Construct-ive Form Phrases ( Sample )
 
 The following is a growing , exacting , and living list of some of the many Positive Form Core Phrases .
 
