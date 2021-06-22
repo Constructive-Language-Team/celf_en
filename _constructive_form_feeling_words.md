@@ -2,7 +2,7 @@ Navigation Brief : [README](README.md)
 
 # Learning In Progress Construct-ive Form Feeling Words ( Sample )
 
-The following is a growing , exacting , and living list of some of the many Positive Form Core Words .
+The following is a growing , exacting , and living list of some of the many Construct-ive Form Core Words .
 
 Each of these words , essentially , have the Math equivalent value of [positive infinity](https://en.wikipedia.org/wiki/Infinity) in [Math](https://en.wikipedia.org/wiki/Math) when properly applied and exacting to this correct context , and have a value so high , their very definition goes back to themselves , and are in relation to expressing **feelings** :
 
@@ -13,9 +13,9 @@ Each of these words , essentially , have the Math equivalent value of [positive 
 
 comfort / comfortable
 
-constructive / construct-ive / construct-ive-ly
+construct / constructive / construct-ive / construct-ive-ly
 
-disturb / disturbed
+disturb / disturbing
 
 en-joy / en-joy-able / en-joy-ing
 
