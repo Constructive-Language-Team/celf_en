@@ -1,4 +1,3 @@
-
 Navigation Brief : [README](README.md)
 
 # Overview Of CELF ( Construct-ive English [ en ] Language Form )
@@ -7,13 +6,13 @@ Constructive English (en) Language Form , Learning In Progress .
 
 This is a learning in progress project focused primarily with the construct-ive form of communication in the English language .
 
-Construct-ive English Language Form (CELF) is operating as a tentative name . Definition pending ( Focus is construct-ive words as inclusive-ly as possible , also and always ) .
+Construct-ive English Language Form ( CELF ) is operating as a tentative name . Definition pending ( Focus is construct-ive words as inclusive-ly as possible , also and always ) .
 
 All feedback and contributions welcome .
 
 Please Contribute . i am / we are listening  ( humility form , also and always ) . Also , IAm-WeAre listening ( similar form ).
 
-Consideration and Contributions for Construct-ive Language Form (PLF) are welcome here with English , and other languages , such as [French](French_README.md) [ path in progress ] and even others .
+Consideration and Contributions for Construct-ive Language Form ( CLF ) are welcome here with English , and other languages , such as [French](French_README.md) [ path in progress ] and even others .
 
 ## Synopsis Of CELF
 
