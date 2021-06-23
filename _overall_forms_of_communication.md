@@ -18,7 +18,7 @@ This document represents a living overview document with ongoing growing , const
 
 ## 'Feeling' Form in CELF
 
-* Please note , most all others are alphabetical , this one is first be-cause all language is 'feeling' / 'feelings'-driven . Please consider and / or see all other documents which also help speak to this also .
+* Please note , most of all others are alphabetical ( though humility form current-ly differs in this respect , this may change in time ) , this one is first be-cause all language is 'feeling' / 'feelings'-driven . Please consider and / or see all other documents which also help speak to this also .
 
 Re-allocation of typical wording to have more feeling in communication , especially in writing and speech .
 
@@ -61,6 +61,10 @@ Example ( s ) :
 
 Particularly for use when location and / or some form of arrangement .
 
+One may also consider adding 'I am' , 'i am' , 'iam' , 'i am' into communicating , when , while , and where , among all others , this appears , and / or , is time-ly .
+
+Ongoing care should be within use as 'humility form' is in particular importance whenever 'i' is emphasizing .
+
 Special care should be taken with words like 'they' which may be best expressing another way .
 
 Example ( s ) :
@@ -68,8 +72,11 @@ Example ( s ) :
 Also , and Always , or similars which are more 'personal' even while referring to multiples ( please see also 'Feeling' Form ):
 
 * **here** , rather than 'there'
+* **herefore** , than 'therefore'
+* **in** , than 'on' .
+* **ingoing** , than 'ongoing' . ( this one may require more consider-ing ? )
 * **these** than 'those'
-* **this* , than 'that' 
+* **this** , than 'that' 
 * **this** than 'it' , and
 * etc. .
 
@@ -149,6 +156,13 @@ Sometimes , especially in digital format , additional lines , such as how this d
 Especially in digital formats , readability and clearness should be emphasizing more than exact-ing formatting , when both reason-able and possible .
 
 Examples : throughout this document . More can be added in time .
+
+
+## 'Team Form' Form in CELF
+
+Another possible considering may also be 'IAm-WeAre' in team environments .
+
+While some may say 'no "i" exists in team , team does consist of **many** "i"s . May-be this be consider-ing ?
 
 
 ## Additional Forms of Communication / Listening / Speech / Etc.
