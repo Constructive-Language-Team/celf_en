@@ -4,47 +4,110 @@ Navigation Brief : [README](README.md)
 
 This document describes the essentials of the Overall Forms of Communication in Construct-ive English Language Form ( CELF ) .
 
-This is a sub-set of English focusing primarily Construct-ive Form of English as inclusive-ly in communication as possible .
+This is a sub-set of English focusing primarily **Construct-ive Form of English** as inclusive-ly in communication as possible .
 
-## Brief Overview Of Forms
+
+## Brief Overview Of Communication Forms In CELF
 
 More forms may / will be added in time , as well as , further precisioning of existing forms of communication .
 
-This document represents a living overview document .
+Additional Forms are also ongoing accept-ing and thank-ful-ly so . Thank you . Thank you , all .
 
-## Feeling Form
+This document represents a living overview document with ongoing growing , construct-ing , and precision-ing over time .
+
+
+## 'Feeling' Form in CELF
+
+* Please note , most all others are alphabetical , this one is first be-cause all language is 'feeling' / 'feelings'-driven . Please consider and / or see all other documents which also help speak to this also .
 
 Re-allocation of typical wording to have more feeling in communication , especially in writing and speech .
 
-Examples :
+Example ( s ) :
 
 Awe-some / awe-some , Excel-lent / excel-lent , EnJoyable / en-joy-able , etc.
 
-## 'i' Form ( Also , And Always )
+
+## 'Congratulate-ing' / 'Congratulating' Form in CELF
+
+When something / somethings / someone / someones are to be 'congratulate-ing' / 'congratulating' put all others first .
+
+Example ( s ) :
+
+'Team , thank you all . Our success depends on you all more than myself . Thank you . Thank you , all . "
+
+
+## 'Instruct-ive' / 'Instructive' Form In CELF
+
+When in 'Instructive Form' , 'Respect Form' (please see also Respect Form below for further ) would indicate "generic I" should go first .
+
+if / when I am learning to receive my own feedback ,
+why should I expect anyone else to do so ?
+
+Example ( s ) :
+
+' Team , should I being doing this clean up task ... I will start here ... '
+
+
+## 'i' Form ( Also , And Always ) in CELF
 
 Particularly for use when something appears to be 'instructive' in nature .
 
-## Present Form ( Also , And Always )
+Example ( s ) :
 
-Technically , only three time periods exist :
+' Should I be doing this task ... my understanding , and I am accepting feedback , is I will start here ... "
 
-Before Now , Now , Beyond Now .
 
-When possible , and timely ( depending on formality of document , etc. ), conclude each word with 'ing' and/or some form of ongoing .
+## 'Personal' ( and / or Similar ) Form ( Also , And Always ) in CELF
 
-## 'humility form' (Also , And Always )
+Particularly for use when location and / or some form of arrangement .
 
-The Speaker should choose humility form in communication as much as possible :
+Special care should be taken with words like 'they' which may be best expressing another way .
 
-' What if I receive my own message ? Will I accept this presentation more easily or a different style ? '
+Example ( s ) :
+
+Also , and Always , or similars which are more 'personal' even while referring to multiples ( please see also 'Feeling' Form ):
+
+* **here** , rather than 'there'
+* **these** than 'those'
+* **this* , than 'that' 
+* **this** than 'it' , and
+* etc. .
+
+
+## 'Present' Form ( Also , And Always ) in CELF
+
+Technically , only three time periods exist and each is continue-ing relate-ing to 'Now' :
+
+* 1) **Before Now**
+* 2) **Now**
+* 3) **Beyond Now** .
+
+When possible , and timely ( depending on formality of document and / or other factors , etc. ) , conclude each word with 'ing' and/or some form of ongoing .
+
+While this may appear / seem different than most grammar , this is ongoing more Listener respect-ful .
+
+
+## 'humility form' (Also , And Always ) in CELF
+
+The Speaker may , and / or should / shall , consider choose-ing humility form in communication as much as possible :
+
+' What if I receive my own message ? '
+
+' Will I accept this presentation more easily or a different style ? '
 
 Often , teaching about language is to 'think of the listener' . If 'generic I' may like a different route of presentation , maybe I should be doing so as the Speaker ?
 
 True communication is more 'Listener'-driven than usually presenting in teaching .
 
-Let us consider also the : 'If a tree/object which makes a sound "falls in the forest" does **this make a sound** ? '
+Let us consider also the : 'If a tree / object ( which makes a sound ) "falls in the forest" does **this make a sound** ? '
 
-Possibly one route , among other possibilities , is , only if at least one person / Person is *listening*
+Possibly one route , among other possibilities , is , only if at least one person / Person is *listening* / *active listening* .
+
+Listeners may only be active-ly listening when they feel the Speaker , and / or relating elements ( depending in these circumstances ) , has sufficient-ly being , and ongoing , obtaining ongoing respect from / with Listener .
+
+Other elements may also relate , it is the response-ability of the Speaker , should this message be important , to determine how to assist these intending Listener / Listeners in maintaining focus .
+
+While ongoing communication may be Listener-driven , all involving have particular responsibilites .
 
 Example :
 
@@ -52,7 +115,8 @@ Example :
 i am listening
 ( humility form , also and always ) '
 
-## 'Respect Form' / 'Ordering Form'
+
+## 'Respect Form' / 'Ordering Form' / Similar Form In CELF
 
 *When* :
 
@@ -60,9 +124,9 @@ i am listening
 
 Example ( s ) :
 
-'Team , thank you all . Our success depends on you all more than myself . Thank you all . "
+'Team , thank you all . Our success depends on you all more than myself . Thank you . Thank you , all . "
 
-* **Instructive** : when instructive form , Respect Form would indicate "generic I" should go first , if I am learning to receive my own feedback , why should I expect anyone else to do so ?
+* **Instructive** : when in 'Instructive Form' , Respect Form would indicate "generic I" should go first , if I am learning to receive my own feedback , why should I expect anyone else to do so ?
 
 Example ( s ) :
 
@@ -74,7 +138,8 @@ Example ( s ) :
 
 ' Hi , Friend , since I am speaking to you , even though one of your relative's is my more direct friend , I will address you in this form ... "
 
-## 'Spacing' Form
+
+## 'Spacing' Form in CELF
 
 When possible , allow an extra space especially in digital communication before and after lines and / or certain aspects of communication , depending on the context , possibly even before and / or after any / most form ( s )  of punctuation / quoting / brackets , etc. .
 
@@ -84,6 +149,7 @@ Sometimes , especially in digital format , additional lines , such as how this d
 Especially in digital formats , readability and clearness should be emphasizing more than exact-ing formatting , when both reason-able and possible .
 
 Examples : throughout this document . More can be added in time .
+
 
 ## Additional Forms of Communication / Listening / Speech / Etc.
 
