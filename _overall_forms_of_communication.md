@@ -2,9 +2,9 @@ Navigation Brief : [README](README.md)
 
 # Overall Forms of Communication In CELF ( Construct-ive English [ en ] Language Form )
 
-This document describes the essentials of the Overall Forms of Communication in Construct-ive English Language Form ( CELF ) .
+This document describes the essentials of the Overall Forms of Communication in Construct-ive English Language Form ( CELF ) , Tentative Operating Name .
 
-This is a sub-set of English focusing primarily **Construct-ive Form of English** as inclusive-ly in communication as possible .
+This is a sub-set of English focusing primarily with **Construct-ive Form of English** as inclusive-ly in communication as possible .
 
 
 ## Brief Overview Of Communication Forms In CELF
@@ -18,7 +18,7 @@ This document represents a living overview document with ongoing growing , const
 
 ## 'Feeling' Form in CELF
 
-* Please note , most of all others are alphabetical ( though humility form current-ly differs in this respect , this may change in time ) , this one is first be-cause all language is 'feeling' / 'feelings'-driven . Please consider and / or see all other documents which also help speak to this also .
+* Please note , most of all others are alphabetical ( though humility form current-ly differs in this respect , this may change in time ) , this one is first be-cause all language is 'feeling' / 'feelings'-driven . Please consider and / or see all other documents here , and with relate-ing sources , which also assist alongside this also .
 
 Re-allocation of typical wording to have more feeling in communication , especially in writing and speech .
 
@@ -74,12 +74,12 @@ Also , and Always , or similars which are more 'personal' even while referring t
 * **here** , rather than 'there'
 * **herefore** , than 'therefore'
 * **in** , than 'on' .
-* **ingoing** , than 'ongoing' . ( this one may require more consider-ing ? )
-* **these** than 'those'
+* **ingoing** , than 'ongoing' ( this one may require more consider-ing ? )
+* **these** , than 'those'
 * **this** , than 'that' 
-* **this** than 'it' , and
+* **this** , than 'it' , and
 * etc. .
-
+* ( more to be add-ing in time and / or with ongoing feedback with all . Everyone helping everyone in Truth is Awe-some . )
 
 ## 'Present' Form ( Also , And Always ) in CELF
 
@@ -87,16 +87,16 @@ Technically , only three time periods exist and each is continue-ing relate-ing 
 
 * 1) **Before Now**
 * 2) **Now**
-* 3) **Beyond Now** .
+* 3) **Beyond Now**
 
 When possible , and timely ( depending on formality of document and / or other factors , etc. ) , conclude each word with 'ing' and/or some form of ongoing .
 
-While this may appear / seem different than most grammar , this is ongoing more Listener respect-ful .
+While this may appear / seem different than most grammar in most ongoing learn-ing , this is ongoing more 'Listener' respect-ful .
 
 
 ## 'humility form' (Also , And Always ) in CELF
 
-The Speaker may , and / or should / shall , consider choose-ing humility form in communication as much as possible :
+The Speaker , or Speakers , herein referr-ing as 'Speaker' , may , and / or should / shall , consider choose-ing humility form in communication / communicate-ing as much as possible :
 
 ' What if I receive my own message ? '
 
@@ -133,7 +133,9 @@ Example ( s ) :
 
 'Team , thank you all . Our success depends on you all more than myself . Thank you . Thank you , all . "
 
-* **Instructive** : when in 'Instructive Form' , Respect Form would indicate "generic I" should go first , if I am learning to receive my own feedback , why should I expect anyone else to do so ?
+* **Instructive** : when in 'Instructive Form' , Respect Form would indicate "generic I" should go first .
+
+if / when I am ongoing learning to receive my own feedback , why should I expect anyone else to do so ?
 
 Example ( s ) :
 
@@ -152,8 +154,9 @@ When possible , allow an extra space especially in digital communication before 
 
 While this may seem strange to at least some , this inherently assists in building more comfort especially for some types of readers and especially due to the unique dynamics each person faces each day .
 
-Sometimes , especially in digital format , additional lines , such as how this document is being compiling / organizing , will assist readers in seeing individual points more clearly .
+Sometimes , especially in digital format , additional lines , such as how this document is being compiling / organizing , will assist readers in seeing individual points more clear-ly .
 Especially in digital formats , readability and clearness should be emphasizing more than exact-ing formatting , when both reason-able and possible .
+Each context will require certain considerations . 'Respect Form' , and all relate-ing , will also respect these in each .
 
 Examples : throughout this document . More can be added in time .
 
@@ -162,7 +165,7 @@ Examples : throughout this document . More can be added in time .
 
 Another possible considering may also be 'IAm-WeAre' in team environments .
 
-While some may say 'no "i" exists in team , team does consist of **many** "i"s . May-be this be consider-ing ?
+While some may say 'no "i" exists in team' , team does consist of **many** "i"s . May-be this be consider-ing ongoing ?
 
 
 ## Additional Forms of Communication / Listening / Speech / Etc.
@@ -171,3 +174,8 @@ While some may say 'no "i" exists in team , team does consist of **many** "i"s .
 
 * Suggestions are always accepting and welcome ( also a present form , also and always , example )
 
+Thank you .
+Thank you , all .
+Everyone helping everyone in Truth is Awe-some .
+
+~
